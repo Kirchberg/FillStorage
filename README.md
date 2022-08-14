@@ -6,6 +6,8 @@
 ## Motivation
 While working with HLS offline download and playback, I was faced with the need to process cases with a fully filled iPhone/iPad storage. If you need to process cases like this, so feel free to use an app.
 
+Inspired by [@boehlerlukas](https://github.com/boehlerlukas)
+
 ## Tech
 
 - System: iOS 13.0+
