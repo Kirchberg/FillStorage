@@ -4,7 +4,7 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Kirchberg/FillStorage)
 
 ## Motivation
-While working on downloads section at a large technology company, I was faced with the need to process cases with a fully filled iPhone storage. If you need to process cases like this, so feel free to use an app.
+While working with downloads, I was faced with the need to process cases with a fully filled iPhone/iPad storage. If you need to process cases like this, so feel free to use an app.
 
 ## Tech
 
@@ -19,4 +19,4 @@ While working on downloads section at a large technology company, I was faced wi
 
 ## License
 
-Licensed under the [MIT license](https://github.com/Kirchberg/FillStorage/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/Kirchberg/FillStorage/blob/master/LICENSE). See the LICENSE file for more info.
